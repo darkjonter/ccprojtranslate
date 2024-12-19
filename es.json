@@ -1899,6 +1899,14 @@
     "terms_of_service": "Términos de servicio",
     "settings_stripe_not_ok": "Ha habilitado planes de precios y la plataforma para suscripciones es Stripe. Pero no ha ingresado la clave de franja real y el secreto de franja en Configuración del sitio -> Finanzas. Introduzca los valores correctos o cambie su proveedor de suscripción",
     "Not in range": "Fuera de rango",
-    "customer visit": "customer visitXXXXX",
-    " Missing variants will have the same price as the item": " Missing variants will have the same price as the item"
+    "customer visit": "visita al cliente",
+    " Missing variants will have the same price as the item": " Las variantes faltantes tendrán el mismo precio que el artículo",
+    "Paying clients": "Clientes que pagan",
+    "Welcome back" : "Bienvenido de nuevo",
+    "this month" : "este mes",
+    "See all" : "Ver todo",
+    "Support": "Soporte",
+    "Disable ordering":"Deshabilitar el pedido",
+    "ex. We accept cash on delivery and cash on pick up": "Ejemplo: Aceptamos efectivo de entrega y efectivo en recoger",
+    "Links that appear in the side menu of the vendor navigatio": "Enlaces que aparecen en el menú lateral del proveedor Navigatio"
 }
